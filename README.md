@@ -2,9 +2,17 @@
 
 *Leqi Li, The University of Science & Technology of China*
 
-> This project is currently in progress. 
+> *This project is currently in progress.* 
 >
-> Timeframe: September 2024 – Present
+> *This project is a key project under my university's 'Undergraduate Research Program'.*
+>
+> *Time frame: September 2024 – Present*
+
+
+
+## Project title
+
+*Analysis of Programming Language Correlation in Code Generation Capabilities of Large Language Models*
 
 
 
